@@ -1,0 +1,11 @@
+ruby-minitest-power-assert (0.3.1-2) unstable; urgency=medium
+
+  * Source only upload.
+
+ -- Daniel Leidert <dleidert@debian.org>  Fri, 03 Apr 2020 02:04:58 +0200
+
+ruby-minitest-power-assert (0.3.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #955450)
+
+ -- Daniel Leidert <dleidert@debian.org>  Tue, 31 Mar 2020 23:21:45 +0200
